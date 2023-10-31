@@ -2,4 +2,6 @@
 
 实验五见export_experiment5.pdf
 
+affinity diagram
+
 ![affinity diagram](affinity_diagram.png)
